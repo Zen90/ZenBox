@@ -3,6 +3,3 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of file.
 Creating a new branch is quick.
-Greating a new branch is quick and simple.
-Add merge.
-Add test.
